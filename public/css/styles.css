@@ -12,6 +12,8 @@ body {
 
 .main-content {
     flex-grow: 1;
+    background:#d0cccc;
+    padding: 40px;
 }
 
 footer {
@@ -52,4 +54,9 @@ button {
     background: #888888;
     color: white;
     padding: 8px;
+}
+
+.contact {
+    margin-top: 0px;
+    float: right;
 }
